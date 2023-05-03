@@ -23,5 +23,4 @@ with open(image_filepath, 'wb') as file:
 
 st.title(title)
 st.image(image_filepath)
-st.image("0img0.png")
 st.write(explanation)
